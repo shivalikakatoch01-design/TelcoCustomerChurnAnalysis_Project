@@ -64,15 +64,15 @@ The dataset (`WA\_Fn-UseC\_-Telco-Customer-Churn.csv`) is included in this repo.
 
 
 
-![Churn Distribution](images\churn_distribution.png)
+![Churn Distribution](images/churn_distribution.png)
 
 
 
-![Churn by Contract Type](images\churn_by_contract.png)
+![Churn by Contract Type](images/churn_by_contract.png)
 
 
 
-![Tenure vs Churn](images\tenure_churn.png)
+![Tenure vs Churn](images/tenure_churn.png)
 
 
 
@@ -80,11 +80,11 @@ The dataset (`WA\_Fn-UseC\_-Telco-Customer-Churn.csv`) is included in this repo.
 
 
 
-![Churn by Internet Service Type](images\internet_churn.png)
+![Churn by Internet Service Type](images/internet_churn.png)
 
 
 
-![Confusion Matrix](images\confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 
 
