@@ -1,10 +1,10 @@
-\# Telco Customer Churn Analysis
+# Telco Customer Churn Analysis
 
 
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,7 +14,7 @@ which groups are most at risk and built a logistic regression model to predict c
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -22,45 +22,45 @@ The dataset (`WA\_Fn-UseC\_-Telco-Customer-Churn.csv`) is included in this repo.
 
 
 
-\*\*Original source:\*\* https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+**Original source:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 
 
-\## Tools \& Libraries Used
+## Tools & Libraries Used
 
 
 
-\- Python
+- Python
 
-\- pandas
+- pandas
 
-\- matplotlib / seaborn
+- matplotlib / seaborn
 
-\- scikit-learn
+- scikit-learn
 
-\- Jupyter Notebook
-
-
-
-\## Key Insights
+- Jupyter Notebook
 
 
 
-\- About 26% of customers churned — roughly 1 in 4
-
-\- Month-to-month contract customers churn far more than those on annual or two-year plans
-
-\- Most churn happens within the first 12 months — the first year is the highest-risk period
-
-\- Churners pay higher monthly charges on average, suggesting a value perception problem
-
-\- Fiber optic users churn more than DSL users, likely due to higher costs and no contract lock-in
-
-\- The logistic regression model achieved \~80% accuracy in predicting churn
+## Key Insights
 
 
 
-\## Visualizations
+- About 26% of customers churned — roughly 1 in 4
+
+- Month-to-month contract customers churn far more than those on annual or two-year plans
+
+- Most churn happens within the first 12 months — the first year is the highest-risk period
+
+- Churners pay higher monthly charges on average, suggesting a value perception problem
+
+- Fiber optic users churn more than DSL users, likely due to higher costs and no contract lock-in
+
+- The logistic regression model achieved ~80% accuracy in predicting churn
+
+
+
+## Visualizations
 
 
 
@@ -88,19 +88,19 @@ The dataset (`WA\_Fn-UseC\_-Telco-Customer-Churn.csv`) is included in this repo.
 
 
 
-\## How to Run
+## How to Run
 
 
 
-1\. Clone this repository
+1. Clone this repository
 
-2\. Open `telcoanalysis.ipynb` in Jupyter Notebook
+2. Open `telcoanalysis.ipynb` in Jupyter Notebook
 
-3\. Run all cells
+3. Run all cells
 
 
 
-\## Author
+## Author
 
 
 
@@ -110,11 +110,11 @@ Shivalika Katoch
 
 
 
-\[LinkedIn](https://www.linkedin.com/in/shivalika-katoch-da)
+[LinkedIn](https://www.linkedin.com/in/shivalika-katoch-da)
 
 
 
-\[GitHub](https://github.com/shivalikakatoch01-design)
+[GitHub](https://github.com/shivalikakatoch01-design)
 
 
 
