@@ -76,7 +76,7 @@ The dataset (`WA\_Fn-UseC\_-Telco-Customer-Churn.csv`) is included in this repo.
 
 
 
-![Monthly Charges vs Churn](\images\charges_churn.png)
+![Monthly Charges vs Churn](images/charges_churn.png)
 
 
 
